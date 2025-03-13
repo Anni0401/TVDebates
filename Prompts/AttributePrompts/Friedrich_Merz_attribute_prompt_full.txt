@@ -1,0 +1,9 @@
+{Name: Friedrich Merz, 
+Partei: CDU,
+Geschlecht: männlich, 
+Staatsangehörigkeit: deutsch, 
+Geburtsdatum: 11.11.1955,
+Geburtsort: Brilon, 
+bisherige Tätigkeiten: Rechtsanwalt, Politiker, Richter auf Probe, Lobbyist, Jurist, 
+akademischer Grad: Volljurist, 
+Wohnsitz: Arnsberg}

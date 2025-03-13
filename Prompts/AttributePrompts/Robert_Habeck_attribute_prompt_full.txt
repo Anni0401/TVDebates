@@ -1,0 +1,9 @@
+{Name: Robert Habeck, 
+Partei: Bündnis 90/Die Grünen,
+Geschlecht: männlich, 
+Staatsangehörigkeit: deutsch, 
+Geburtsdatum: 02.09.1969,
+Geburtsort: Lübeck, 
+bisherige Tätigkeiten: Politiker, Schriftsteller, Umweltschützer, Drehbuchautor, Übersetzer, Philosoph, 
+akademischer Grad: Doctor philosophiae, Magister, 
+Wohnsitz: Flensburg}

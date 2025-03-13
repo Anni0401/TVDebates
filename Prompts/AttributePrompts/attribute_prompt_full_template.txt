@@ -1,0 +1,9 @@
+{Name: , 
+Partei: ,
+Geschlecht: , 
+Staatsangehörigkeit: , 
+Geburtsdatum: ,
+Geburtsort: , 
+bisherige Tätigkeiten: , 
+akademischer Grad: , 
+Wohnsitz: }
